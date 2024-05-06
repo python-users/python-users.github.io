@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>🧱 建站 on lei&#39;s Blog</title>
+    <link>https://python-users.github.io/posts/blog/</link>
+    <description>Recent content in 🧱 建站 on lei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 06 May 2024 15:31:00 +0800</lastBuildDate><atom:link href="https://python-users.github.io/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paste_image</title>
+      <link>https://python-users.github.io/posts/blog/paste_image/</link>
+      <pubDate>Mon, 06 May 2024 15:31:00 +0800</pubDate>
+      
+      <guid>https://python-users.github.io/posts/blog/paste_image/</guid>
+      <description>为什么使用？ 在网站搭建的md文件中，需要时常的更新图片，一次次打标签插入图片过于麻烦 另外保存图片往往需要另存为，还需要考虑图片的路径比较麻烦 &amp;lt;img src=&amp;#34;\images\2024-05-06-16-06-38.png&amp;#34; width=&amp;#34;50%&amp;#34; height=&amp;#34;50%&amp;#34;&amp;gt; - 基础概念 static 静态文件夹里的东西 复制至 public - 只需在static里 建文件夹 然后 \images表示的是public里面的文件 怎么使用？ 1.ctrl+shift+p 2.</description>
+    </item>
+    
+  </channel>
+</rss>

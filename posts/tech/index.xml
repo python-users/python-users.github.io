@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>👨🏻‍💻 技术 on lei&#39;s Blog</title>
+    <link>https://python-users.github.io/posts/tech/</link>
+    <description>Recent content in 👨🏻‍💻 技术 on lei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 06 May 2024 13:54:56 +0800</lastBuildDate><atom:link href="https://python-users.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fluent_Python_book-2</title>
+      <link>https://python-users.github.io/posts/tech/fluent2/</link>
+      <pubDate>Mon, 06 May 2024 13:54:56 +0800</pubDate>
+      
+      <guid>https://python-users.github.io/posts/tech/fluent2/</guid>
+      <description>发现插件VSCODE可以直接复制图片到文件夹 第二章</description>
+    </item>
+    
+    <item>
+      <title>Fluent_Python_book-1</title>
+      <link>https://python-users.github.io/posts/tech/fluent1/</link>
+      <pubDate>Tue, 30 Apr 2024 19:38:46 +0800</pubDate>
+      
+      <guid>https://python-users.github.io/posts/tech/fluent1/</guid>
+      <description>fluent python first class</description>
+    </item>
+    
+  </channel>
+</rss>
